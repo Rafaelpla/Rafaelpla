@@ -11,11 +11,9 @@ Future full stack and game developer. 👀
 
 <div>
 <a href="https://github.com/Rafaelpla">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelpla&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Rafaelpla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelpla&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafaelpla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-![Snake animation](https://github.com/Rafaelpla/Rafaelpla/blob/output/github-contribution-grid-snake.svg)
 
 ## 📖 Current studing:
 
