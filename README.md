@@ -1,6 +1,6 @@
 # Hello, I'm Rafael 👋
 
-Welcome, I study *Computer Engineering* and work at SMCTI in Pato Branco (intern).
+Welcome, I study *Computer Engineering*.
 
 Future full stack and game developer. 👀
 
